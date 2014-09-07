@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.deniscompany.denistestapp"
+        versionCode = "10" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Razpisanie</name>
+
+    <description>
+        Razpisanie na avtobusnite linii. 
+    </description>
+
+    <author href="https://build.deni.com" email="nomail@deni.com">
+        dlenis mai
+    </author>
+
+</widget>
