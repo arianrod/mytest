@@ -1,2 +1,2 @@
-mytest readme fail
-======
+tuk slagam opisanieto na moiata app
+tova e app za avtobusnoto razpisanie
